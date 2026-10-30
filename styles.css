@@ -1,0 +1,24 @@
+p {
+    color: #8b4513;
+}
+.destacado {
+    background-color: #ffe4c4;
+    padding: 15px;
+}
+#titulo {
+    color: #c07045;
+    text-align: center;
+}
+button {
+    background-color: #d99570;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+button:hover {
+    background-color: #8b4513;
+}
+
+
